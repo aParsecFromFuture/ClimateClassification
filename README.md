@@ -1,2 +1,2 @@
 # ClimateClustering
-Climate Classification of cities in Turkey with K-Mean algorithm
+Climate Clustering of cities in Turkey with K-Mean algorithm
